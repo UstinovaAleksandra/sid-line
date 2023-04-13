@@ -1,15 +1,14 @@
-<svg width="100" height="100" viewBox="0 0 1353 1234" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line y1="-6" x2="533.466" y2="-6" transform="matrix(0.914645 -0.404259 0.554592 0.832122 344.059 513.217)" stroke="white" stroke-width="12"/>
-<line y1="-6" x2="355.187" y2="-6" transform="matrix(-0.554592 -0.832122 0.914645 -0.404259 831.991 297.559)" stroke="white" stroke-width="12"/>
-<path d="M634.09 4.52161L343.5 506" stroke="white" stroke-width="12"/>
-<line y1="-6" x2="355.187" y2="-6" transform="matrix(-0.554592 -0.832122 0.914645 -0.404259 831.991 297.559)" stroke="white" stroke-width="12"/>
-<line y1="-6" x2="522.069" y2="-6" transform="matrix(-0.861664 -0.507479 0.664032 -0.747704 690.845 962.606)" stroke="white" stroke-width="12"/>
-<path d="M246.167 700.712L14.5 968.5" stroke="white" stroke-width="12"/>
-<path d="M9 971L682.998 966" stroke="white" stroke-width="12"/>
-<line x1="945.051" y1="513.068" x2="945.051" y2="965.166" stroke="white" stroke-width="12"/>
-<line x1="939.05" y1="959.166" x2="1352" y2="959.166" stroke="white" stroke-width="12"/>
-<path d="M1347 956.5L946 516.5" stroke="white" stroke-width="12"/>
-<path d="M943.53 960.811L412 627" stroke="white" stroke-width="12"/>
-<path d="M243.5 703.5L819 454.5" stroke="white" stroke-width="12"/>
-<path d="M826 297L793 869.5" stroke="white" stroke-width="12"/>
+<svg width="100" height="100" viewBox="0 0 1353 1225" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M345.5 486.999L823.673 278.076" stroke="white" stroke-width="30"/>
+<path d="M818.272 296.622L634.5 8.99928" stroke="white" stroke-width="30"/>
+<path d="M635.5 21L338.501 493.5" stroke="white" stroke-width="30"/>
+<path d="M672.5 957L231.036 701.883" stroke="white" stroke-width="30"/>
+<path d="M253.708 692L22.0408 959.788" stroke="white" stroke-width="30"/>
+<path d="M9 964L682.998 959" stroke="white" stroke-width="30"/>
+<line x1="954.051" y1="506.067" x2="954.051" y2="958.166" stroke="white" stroke-width="30"/>
+<line x1="939.051" y1="943.166" x2="1352" y2="943.166" stroke="white" stroke-width="30"/>
+<path d="M1339.5 936.5L956 514" stroke="white" stroke-width="30"/>
+<path d="M950 947.5L412 620" stroke="white" stroke-width="30"/>
+<path d="M248.998 697.475L816.5 453" stroke="white" stroke-width="30"/>
+<path d="M817 290.5L794 859.5" stroke="white" stroke-width="30"/>
 </svg>
