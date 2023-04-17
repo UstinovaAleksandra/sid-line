@@ -16,7 +16,10 @@ export const RequestForm: FC<Props> = ({ vertical }) => {
 				request: '',
 				toggle: false,
 			}}
-			onSubmit={(values) => console.log(values)}
+			onSubmit={(values, { resetForm }) => {
+				console.log(values)
+				resetForm()
+			}}
 		>
 			<Form className={`form${vertical ? '--vertical' : ''}`}>
 				<div className={`form__line-fields${vertical ? '--vertical' : ''}`}>
